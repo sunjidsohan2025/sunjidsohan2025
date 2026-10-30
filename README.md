@@ -33,9 +33,12 @@ Retrieval-Augmented Generation pipelines: embed, store in a vector database, ret
 
 Containerized with Docker and deployed on AWS, versioned with Git and GitHub.
 
+</details>
+
 📊 Live Stats
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sunjidsohan2025&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunjidsohan2025&theme=tokyonight&hide_border=true" alt="Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity graph" width="100%"/> </div> <div align="center">
-●── IT Executive          @ ICON Academic Care
+
+       ●── IT Executive          @ ICON Academic Care
        │
        ●── Full Stack Web Developer & AI
        │
